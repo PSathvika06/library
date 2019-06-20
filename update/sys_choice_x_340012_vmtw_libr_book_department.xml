@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="department" table="x_340012_vmtw_libr_book" version="3">
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>ECE</label>
+            <language>en</language>
+            <name>x_340012_vmtw_libr_book</name>
+            <sequence>0</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:01:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ec0dd73adb4233003c797b60399619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:01:46</sys_updated_on>
+            <value>1</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>CSE</label>
+            <language>en</language>
+            <name>x_340012_vmtw_libr_book</name>
+            <sequence>1</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:01:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>200dd73adb4233003c797b60399619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:01:46</sys_updated_on>
+            <value>2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>EEE</label>
+            <language>en</language>
+            <name>x_340012_vmtw_libr_book</name>
+            <sequence>2</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:01:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac0dd73adb4233003c797b60399619d0</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:01:46</sys_updated_on>
+            <value>3</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>department</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>OTHERS</label>
+            <language>en</language>
+            <name>x_340012_vmtw_libr_book</name>
+            <sequence>3</sequence>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:01:46</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>2c0dd73adb4233003c797b60399619d1</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:01:46</sys_updated_on>
+            <value>4</value>
+        </sys_choice>
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>department</element>
+            <name>x_340012_vmtw_libr_book</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:01:46</sys_created_on>
+            <sys_id>280dd73adb4233003c797b60399619cf</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>department</sys_name>
+            <sys_package display_value="vmtw_library" source="x_340012_vmtw_libr">fa5bd7b6db4233003c797b60399619e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="vmtw_library">fa5bd7b6db4233003c797b60399619e1</sys_scope>
+            <sys_update_name>sys_choice_x_340012_vmtw_libr_book_department</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 06:01:46</sys_updated_on>
+        </sys_choice_set>
+    </sys_choice>
+</record_update>

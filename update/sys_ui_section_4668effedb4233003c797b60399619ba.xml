@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Student Details" section_id="4668effedb4233003c797b60399619ba" sys_domain="global" table="x_340012_vmtw_libr_book_issue" version="3" view="Issue">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_id</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:06</sys_created_on>
+            <sys_id>629d40c7dbc233003c797b603996196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Student Details" display_value="Student Details" name="x_340012_vmtw_libr_book_issue" sys_domain="global" view="8268effedb4233003c797b60399619b7">4668effedb4233003c797b60399619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_department</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:06</sys_created_on>
+            <sys_id>e69d40c7dbc233003c797b603996196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Student Details" display_value="Student Details" name="x_340012_vmtw_libr_book_issue" sys_domain="global" view="8268effedb4233003c797b60399619b7">4668effedb4233003c797b60399619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:06</sys_created_on>
+            <sys_id>6a9d40c7dbc233003c797b603996196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Student Details" display_value="Student Details" name="x_340012_vmtw_libr_book_issue" sys_domain="global" view="8268effedb4233003c797b60399619b7">4668effedb4233003c797b60399619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:06</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>student_name</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:06</sys_created_on>
+            <sys_id>ea9d40c7dbc233003c797b603996196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Student Details" display_value="Student Details" name="x_340012_vmtw_libr_book_issue" sys_domain="global" view="8268effedb4233003c797b60399619b7">4668effedb4233003c797b60399619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>mobile_number</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:06</sys_created_on>
+            <sys_id>6e9d40c7dbc233003c797b603996196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Student Details" display_value="Student Details" name="x_340012_vmtw_libr_book_issue" sys_domain="global" view="8268effedb4233003c797b60399619b7">4668effedb4233003c797b60399619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>email_id</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 09:34:06</sys_created_on>
+            <sys_id>ee9d40c7dbc233003c797b603996196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Student Details" display_value="Student Details" name="x_340012_vmtw_libr_book_issue" sys_domain="global" view="8268effedb4233003c797b60399619b7">4668effedb4233003c797b60399619ba</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:06</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Student Details</caption>
+            <header>false</header>
+            <name>x_340012_vmtw_libr_book_issue</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-19 06:51:35</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4668effedb4233003c797b60399619ba</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>Student Details</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="vmtw_library" source="x_340012_vmtw_libr">fa5bd7b6db4233003c797b60399619e1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="vmtw_library">fa5bd7b6db4233003c797b60399619e1</sys_scope>
+            <sys_update_name>sys_ui_section_4668effedb4233003c797b60399619ba</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-19 09:34:05</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Issue" name="Issue">8268effedb4233003c797b60399619b7</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
